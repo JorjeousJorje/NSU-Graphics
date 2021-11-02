@@ -1,2 +1,2 @@
 # NSU-Graphics
- NSU courses on computer graphics
+ NSU course on computer graphics
